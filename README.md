@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Druminaa and I'm a Computer Science and Engineering student, passionate about Data Science!</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Druminaa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Druminaa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="139" alt="stats graph" />
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Druminaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Druminaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="139"  alt="languages graph" />
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Druminaa&theme=dracula&hide_border=false" height="150" alt="streak graph" />
