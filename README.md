@@ -1,3 +1,5 @@
+<img src="https://github.com/Druminaa/your-repo-name/blob/main/assets/banner.jpg?raw=true" width="100%" alt="banner" />
+
 <h2 align="left">Hi 👋! My name is Druminaa and I'm a Computer Science and Engineering student, passionate about Data Science!</h2>
 
 <div align="center">
