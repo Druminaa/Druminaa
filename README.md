@@ -12,7 +12,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Druminaa&theme=dracula&hide_border=false" height="150" alt="streak graph" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Druminaa&theme=dracula&hide_border=false" height="150" alt="activity graph" />
 </div> -->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
+<br>
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" /> -->
+<img 
+  align="right" 
+  height="120" 
+  src="asset/luffy.gif"  
+  alt="GIF" 
+  style="
+    background-color: transparent;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+    padding: 8px;
+    border-radius: 10px;
+  "
+/>
+
 
 
 <!--icone-->
