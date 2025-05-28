@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/Druminaa/Druminaa/blob/main/asset/ursa-major-ursa-minor-constellations.jpg?raw=true" width="100%" alt="banner" /> -->
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h2 align="left">Hi 👋! My name is Druminaa and I'm a Computer Science and Engineering student, passionate about Data Science!</h2>
 
 <div align="center">
@@ -68,3 +68,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/druminaa/druminaa/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
